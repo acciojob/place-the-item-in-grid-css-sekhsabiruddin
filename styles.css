@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
       display:grid;
 grid-template-columns: repeat(2, 2fr);
   grid-template-rows: repeat(2, 2fr);
